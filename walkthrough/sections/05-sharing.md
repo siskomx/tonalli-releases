@@ -39,6 +39,17 @@ shared. You remove individual items instead of choosing them one by one.
   "Reading a library shared by another device." with a **Connection settings** link back to this card
   and **Return to my library** to disconnect.
 
+## Sharing without Wi-Fi
+
+- **Android** can create a temporary hotspot for you: choose **Phone hotspot (no router needed)**,
+  allow it when asked, and the card shows the network name, password and a QR code to join.
+- **iPhone** does not let any app switch the hotspot on, or read its name and password, so Tonalli
+  guides you instead. Under **Share without Wi-Fi** it says to open Settings, tap Personal Hotspot and
+  turn on Allow Others to Join. Tonalli notices when it is on and lists **Personal Hotspot (this
+  iPhone)** under **Local network**. Choose it and start sharing. The other device joins the hotspot
+  with the name and password shown in Settings, then opens the address Tonalli shows. On some iPhones
+  the hotspot is listed only after another device has joined it.
+
 ## Limits and behaviour to know
 
 - Up to **1024** imported files can be shared at once. Above that, Start is disabled with a message
