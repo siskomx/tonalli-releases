@@ -1,4 +1,6 @@
-﻿# Tonalli releases
+# Tonalli releases
+
+> **Tonalli now lives at [siskomx/tonalli-oss](https://github.com/siskomx/tonalli-oss)** (source, downloads, user guide and update feed). New users should use that repository and the update address `siskomx/tonalli-oss`. This repository stays online so installs that already use `siskomx/tonalli-releases` keep receiving updates.
 
 Downloads for **Tonalli**, a free, offline knowledge app (library, maps, notes, optional on-device AI)
 for Android, Windows and iPhone. This repository holds the release files, the signed update feed and
